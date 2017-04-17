@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		F3E7376A1EA46388004DC1DA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3E737691EA46388004DC1DA /* main.swift */; };
+		F3E737711EA464D0004DC1DA /* GeometricAlgebra.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3E737701EA464D0004DC1DA /* GeometricAlgebra.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		F3E737661EA46388004DC1DA /* GeometricAlgebra */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = GeometricAlgebra; sourceTree = BUILT_PRODUCTS_DIR; };
 		F3E737691EA46388004DC1DA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		F3E737701EA464D0004DC1DA /* GeometricAlgebra.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GeometricAlgebra.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				F3E737691EA46388004DC1DA /* main.swift */,
+				F3E737701EA464D0004DC1DA /* GeometricAlgebra.swift */,
 			);
 			path = GeometricAlgebra;
 			sourceTree = "<group>";
@@ -120,6 +123,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F3E737711EA464D0004DC1DA /* GeometricAlgebra.swift in Sources */,
 				F3E7376A1EA46388004DC1DA /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
