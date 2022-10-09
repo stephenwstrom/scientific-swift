@@ -1,5 +1,6 @@
 # scientific-swift
 
+<p>
 <math style="font-family:stix" xmlns="http://www.w3.org/1998/Math/MathML">
     <mstyle mathsize="16px">
         <mi>E</mi>
@@ -11,3 +12,4 @@
         </msup>
     </mstyle>
 </math>
+</p>
